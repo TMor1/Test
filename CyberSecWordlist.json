@@ -5,7 +5,7 @@
             "name": "Cyber Security Terms",
             "description": "Cyber Security Terms",
             "usage": 4,
-            "link": "https://github.com/TMor1/Test/edit/main/CyberSecWordlist.json",
+            "link": "https://raw.githubusercontent.com/TMor1/Test/refs/heads/main/CyberSecWordlist.json",
             "entries": [
                 {
                     "value": "0-Day",
