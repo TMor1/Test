@@ -1,0 +1,525 @@
+{
+    "version": 1,
+    "data": [
+        {
+            "name": "Cyber Security Terms",
+            "description": "Cyber Security Terms",
+            "usage": 4,
+            "link": "https://github.com/TMor1/Test/edit/main/CyberSecWordlist.json",
+            "entries": [
+                {
+                    "value": "0-Day",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "0Day",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Advanced Persistent Threat",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "APT",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Advisory-in-the-browser",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Advisory-in-the-middle",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Adware",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "AitB",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "AitM",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "ARP Poisoning",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "AS-REP Roasting",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Attack Surface",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Attack Vector",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Bind Shell",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Blue Team",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Botnet",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Brute Force",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Buffer Overflow",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Business Email Compromise",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Clickjacking",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Code Injection",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Command and Control",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Conficker",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Cross Site Scripting",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Cross-Site Request Forgery",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Cross-Site Scripting",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Cryptolocker",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Cryptominer",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Cryptomining Malware",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "CSRF",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "CVE",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Cyber Kill Chain",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Cyber Warfare",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Data Breach",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Data Exfiltration",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "DDoS",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Denial of Service",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "DHCP Starvation",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Directory Traversal",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Distributed Dential of Service",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "DNS Poisoning",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "DoS",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Drive-by Download",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Emolet",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Exploit",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Golden Ticket",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Hacked",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Hacking",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Honeypot",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Incident Response",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Indicator of Compromise",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Infostealer",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Insider Threat",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "IoC",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Kerberoasting",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Keylogger",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Lateral Movement",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "LDAP Injection",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "LFI",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Living off the Land",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Local File Inclusion",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "LockBit",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Malware",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Man-in-the-browser",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Man-in-the-middle",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Metaspolit",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Mimikatz",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "MitB",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "MitM",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Mitre Att&ck",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Mitre Defend",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "NoSQL",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "NotPetya",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "OSINT",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Pass the Hash",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Pass the Ticket",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Pass-the-hash",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Pass-the-Hash",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Pass-the-Ticket",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Pass-the-Ticket",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Password Cracking",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Password Cracking",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Payload",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Phishing",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Pivoting",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Privilege Escalaltion",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Purple Team",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Qakbot",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Race Condition",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Rainbow Table",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Ransomware",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "RAT",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Red Team",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Remote Access Trojan",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Remote File Inclusion",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Reverse Shell",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Revil",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "RFI",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Rootkit",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Ryuk",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Server-Side Request Forgery",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Session Hijacking",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Silver Ticket",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Smishing",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Social Engineering Attack",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Spyware",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "SQL Injection",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "SQL-Injection",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "SQLi",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "SSRF",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Supply Chain Attack",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Threat Hunting",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "TrickBot",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Trojan Horse",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Virus",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Vishing",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Vulnerability",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "WannaCry",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Watering Hole Attack",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Webshell",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Worm",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "XSS",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "XXE",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Yara",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Zero Day",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Zero-Day",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Zeus",
+                    "category": "Cyber Security"
+                },
+                {
+                    "value": "Zloader",
+                    "category": "Cyber Security"
+                }
+            ]
+        }
+    ]
+}
